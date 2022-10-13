@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuvaraj S</h1>
-<h3 align="center">Learn-Code-Repeat</h3>
+<h1 align="left">Hi 👋, I'm Yuvaraj S</h1>
+<h3 align="left">Learn-Code-Repeat</h3>
 
 - 🔭 **I’m currently Studying Information Technology at Bannari Amman Instutite of Technology**
 
